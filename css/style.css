@@ -1,0 +1,21 @@
+h1#title{
+    color: white;
+    font-size: 2vh;
+    font-weight: 400;
+}
+.content{
+    border: 20px;
+    padding: 20px;
+}
+.title-cadastro, .p-cadastro{
+    text-align: center;
+}
+.table-consulta{
+    right: 1fr;
+    left: 1fr;
+    padding: 10px;
+    text-align: center;
+}
+.table-consulta > tr, th{
+    font-size: 1.5vh;
+}
